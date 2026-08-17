@@ -4,7 +4,7 @@
    IBRA DIGITAL ENGINEERING — Apple Human Interface Guidelines Design System
    ========================================================================== */
 
-:root {
+@theme {
   --font-sans: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   
   /* ── Brand Colors (Teal & Accent Gold) ── */
