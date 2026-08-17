@@ -70,14 +70,15 @@ export default function AgencyPortfolio() {
             <span className={styles.showcaseTag}>School Enterprise System</span>
             <h3 className={styles.showcaseTitle}>Website Resmi & Portal Layanan Digital SD Negeri Bobong</h3>
             <p className={styles.showcaseDesc}>
-              Enterprise School Management System terpadu untuk SD Negeri Bobong. Dilengkapi desain Apple HIG 2.0 Bento Glassmorphism (Dual Theme), integrasi Groq Llama-3 AI Engine (Chatbot 24/7 & AI Draft Generator), Portal PPDB Online dengan cetak A4 & WhatsApp Gateway, Portal Cek Rapor NISN Mandiri, serta Dasbor Admin/Guru 4-kategori terproteksi JWT & Audit Log.
+              Sistem Informasi & Portal Manajemen Sekolah Terpadu (School Enterprise System) untuk SD Negeri Bobong. Menampilkan antarmuka Apple HIG Bento Grid dengan Efek Glassmorphism (Dual Theme otomatis), integrasi Google Gemini AI API untuk Chatbot Asisten 24/7 & Pembuatan Draf Berita Sekolah, Portal PPDB Online dengan fitur Cetak PDF A4 otomatis, Integrasi WhatsApp Gateway, Portal Rapor NISN Mandiri, serta Dasbor Panel Guru/Admin Multi-level dengan sistem otentikasi aman JWT Jose & Audit Log aktivitas.
             </p>
             <div className={styles.techTags}>
-              <span className={styles.techTag}>Next.js 16 (App Router)</span>
-              <span className={styles.techTag}>React 19</span>
-              <span className={styles.techTag}>Supabase PostgreSQL</span>
-              <span className={styles.techTag}>Groq Llama-3 AI</span>
+              <span className={styles.techTag}>Next.js 15 (App Router)</span>
+              <span className={styles.techTag}>React 19 & TypeScript</span>
+              <span className={styles.techTag}>Google Gemini AI API</span>
+              <span className={styles.techTag}>Supabase PostgreSQL (RLS)</span>
               <span className={styles.techTag}>Jose JWT Security</span>
+              <span className={styles.techTag}>WhatsApp API Gateway</span>
             </div>
             <div style={{ marginTop: "32px" }}>
               <a href="https://sdnegeribobong.sch.id" target="_blank" rel="noopener noreferrer" className={styles.btnSecondary} style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
@@ -101,10 +102,10 @@ export default function AgencyPortfolio() {
               <span style={{ fontSize: "0.75rem", backgroundColor: "var(--color-green-light)", color: "var(--color-green)", padding: "2px 8px", borderRadius: "12px", fontWeight: "bold" }}>99.9% Uptime</span>
             </div>
             <ul className={styles.featuresList}>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Apple HIG 2.0 Bento Glassmorphism</li>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Chatbot & News Generator Groq Llama-3 AI</li>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Portal PPDB Online, WA Gateway & Cetak A4</li>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Cek Rapor NISN Mandiri & Audit Log JWT</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Apple HIG Bento Grid Layout (Dark/Light Auto Theme)</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> AI Chatbot & News Generator (Google Gemini API)</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> PPDB Online Portal with WhatsApp Alerts & PDF Print</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> NISN Report Card Lookup & Secure Audit Logging</li>
             </ul>
             <div style={{ background: "#ebf0f4", padding: "16px", borderRadius: "var(--radius-lg)", border: "1px solid rgba(0,0,0,0.05)" }}>
               <span style={{ fontSize: "0.8rem", color: "var(--color-gray-500)", fontStyle: "italic" }}>
