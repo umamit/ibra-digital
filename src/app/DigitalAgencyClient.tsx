@@ -68,7 +68,10 @@ export default function DigitalAgencyClient() {
               height={80} 
               className={styles.logoImg} 
             />
-            <span className={styles.logoText}>IBRA Digital Engineering</span>
+            <div className={styles.logoInfo}>
+              <span className={styles.logoText}>IBRA Digital Engineering</span>
+              <span className={styles.logoTagline}>Building Ideas, Digitally</span>
+            </div>
           </a>
           <nav className={styles.navLinks}>
             <a href="#features" className={styles.navLink}>Keunggulan</a>

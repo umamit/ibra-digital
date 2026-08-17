@@ -57,6 +57,24 @@
   color: var(--color-accent);
   letter-spacing: -0.01em;
   white-space: nowrap;
+  line-height: 1.2;
+}
+
+.logoInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.logoTagline {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--color-gray-500);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 2px;
+  line-height: 1;
 }
 
 .navLinks {
