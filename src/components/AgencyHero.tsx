@@ -10,7 +10,7 @@ export default function AgencyHero() {
     <div className={styles.heroSectionWrapper}>
       <FluidCanvas />
       <section className={styles.hero}>
-        <span className={styles.heroTagline}>Your Growth Partner — digital.ibraglobalenglish.uk</span>
+        <span className={styles.heroTagline}>Your Growth Partner — ibradigital.id</span>
         <h1 className={styles.heroTitle}>
           Helping Businesses Scale with <span className={styles.gradientText}>Digital Excellence</span>
         </h1>
