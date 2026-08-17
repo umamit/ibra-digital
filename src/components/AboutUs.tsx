@@ -40,7 +40,7 @@ export default function AboutUs() {
           </div>
 
           <div className={styles.aboutActions}>
-            <a href="#order" className={styles.btnPrimary}>
+            <a href="#order" className={styles.ctaBtn}>
               Konsultasi Layanan
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                 <line x1="5" y1="12" x2="19" y2="12" />
