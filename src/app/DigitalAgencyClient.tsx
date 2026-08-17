@@ -80,8 +80,8 @@ export default function DigitalAgencyClient() {
             <img 
               src="/assets/ibra-digital-logo-v3.png" 
               alt="Ibra Digital Engineering Logo" 
-              width={147} 
-              height={80} 
+              width={70} 
+              height={70} 
               className={styles.logoImg} 
             />
             <div className={styles.logoInfo}>
@@ -143,8 +143,8 @@ export default function DigitalAgencyClient() {
           <img 
             src="/assets/ibra-digital-logo-v3.png" 
             alt="Ibra Digital Engineering Logo" 
-            width={156} 
-            height={85} 
+            width={90} 
+            height={90} 
             loading="lazy"
           />
         </div>
