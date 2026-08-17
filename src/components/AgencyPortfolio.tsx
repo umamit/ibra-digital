@@ -19,13 +19,15 @@ export default function AgencyPortfolio() {
             <span className={styles.showcaseTag}>LMS & Educational Management System</span>
             <h3 className={styles.showcaseTitle}>Portal Belajar & LMS Ibra Global English</h3>
             <p className={styles.showcaseDesc}>
-              Modern Educational Management System hulu-ke-hilir untuk bimbingan belajar. Menampilkan CMS Landing Page dinamis, Placement Test CEFR online dengan Smart Timer, SPP & Keuangan Digital terverifikasi (WA Push & Financial Analytics), Portal Orang Tua/Siswa (Rapor & Kartu SPP Digital), Jadwal Bebas Bentrok (Conflict Prevention), serta AI Engine & RAG Integration (RPP Generator, AI Executive Summary, & E-Sertifikat).
+              Sistem Manajemen Pendidikan & LMS Enterprise hulu-ke-hilir untuk bimbingan belajar modern. Dilengkapi dengan CMS Landing Page dinamis, Placement Test CEFR berbasis kecerdasan buatan, Otomatisasi SPP & Rekapitulasi Keuangan Terverifikasi dengan Push Notification WhatsApp, Portal Siswa & Rapor Digital, Sistem Penjadwalan Bebas Bentrok, serta AI RAG Engine terintegrasi Google Gemini API untuk pembuatan RPP & E-Sertifikat otomatis.
             </p>
             <div className={styles.techTags}>
-              <span className={styles.techTag}>Next.js 16 (App Router)</span>
-              <span className={styles.techTag}>Supabase Realtime & SSR Auth</span>
+              <span className={styles.techTag}>Next.js 15 (App Router)</span>
+              <span className={styles.techTag}>Google Gemini AI API</span>
+              <span className={styles.techTag}>Supabase PostgreSQL (RLS)</span>
               <span className={styles.techTag}>Prisma ORM</span>
-              <span className={styles.techTag}>AI Engine & RAG</span>
+              <span className={styles.techTag}>Framer Motion Animations</span>
+              <span className={styles.techTag}>WhatsApp API Gateway</span>
               <span className={styles.techTag}>Apple HIG System</span>
             </div>
             <div style={{ marginTop: "32px" }}>
@@ -50,14 +52,14 @@ export default function AgencyPortfolio() {
               <span style={{ fontSize: "0.75rem", backgroundColor: "var(--color-green-light)", color: "var(--color-green)", padding: "2px 8px", borderRadius: "12px", fontWeight: "bold" }}>99.9% Uptime</span>
             </div>
             <ul className={styles.featuresList}>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Dynamic CMS, Placement Test CEFR & Smart Timer</li>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> SPP Digital, WA Automation & Financial Analytics</li>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Conflict Prevention Schedule & Attendance Control</li>
-              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Smart AI RAG (RPP & Executive Summary Generator)</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> AI-Driven Placement Test (CEFR Standard) & Smart Timer</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> WhatsApp Push Billing Notifications & Financial Analytics</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Conflict-Free Scheduling & Dynamic Attendance Control</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Gemini AI RAG Integration (Auto RPP & Executive Summary)</li>
             </ul>
             <div style={{ background: "#ebf0f4", padding: "16px", borderRadius: "var(--radius-lg)", border: "1px solid rgba(0,0,0,0.05)" }}>
               <span style={{ fontSize: "0.8rem", color: "var(--color-gray-500)", fontStyle: "italic" }}>
-                "Platform sistem manajemen pendidikan modern terintegrasi dari hulu ke hilir."
+                "Platform sistem manajemen pendidikan modern terintegrasi kecerdasan buatan Gemini AI."
               </span>
             </div>
           </div>
