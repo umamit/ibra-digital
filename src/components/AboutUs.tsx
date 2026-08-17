@@ -23,7 +23,7 @@ export default function AboutUs() {
             Mitra Teknologi Terpadu Anda untuk Web, Mobile, dan Solusi Perangkat Lunak Kustom
           </h2>
           <p className={styles.aboutDesc}>
-            Di Ibra Digital Engineering, kami berdedikasi untuk menjembatani kebutuhan operasional bisnis dan instansi dengan dunia teknologi digital modern. Misi kami adalah memberdayakan lembaga pendidikan dan perusahaan agar bertransisi secara mulus ke era digital dengan sistem yang aman, cepat, dan berestetika tinggi.
+            Di Ibra Digital Engineering, kami berdedikasi untuk menjembatani kebutuhan operasional bisnis dan instansi dengan dunia teknologi digital modern. Sebagai mitra jasa pembuatan website terpercaya di Bobong, Pulau Taliabu, dan wilayah Maluku Utara, kami berkomitmen untuk memberdayakan lembaga pendidikan dan perusahaan agar bertransisi secara mulus ke era digital dengan sistem yang aman, cepat, dan berestetika tinggi.
           </p>
 
           <div className={styles.servicesGrid}>

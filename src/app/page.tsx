@@ -4,12 +4,18 @@ import DigitalAgencyClient from "./DigitalAgencyClient";
 export const metadata: Metadata = {
   metadataBase: new URL("https://ibradigital.id"),
   title: "Ibra Digital Engineering | Jasa Pembuatan Website Premium",
-  description: "Desain website premium berstandar Apple HIG, performa super cepat dengan Next.js & Supabase, serta keamanan tingkat tinggi. Portofolio lengkap dan pemesanan online.",
+  description: "Jasa pembuatan website premium di Bobong, Pulau Taliabu, Maluku Utara. Desain berstandar Apple HIG, performa super cepat Next.js, dan keamanan tingkat tinggi.",
   alternates: {
     canonical: "https://ibradigital.id",
   },
   keywords: [
+    "Jasa Pembuatan Website Bobong",
+    "Jasa Pembuatan Website Taliabu",
     "Jasa Pembuatan Website",
+    "Jasa Web Taliabu",
+    "Jasa Web Bobong",
+    "Website Sekolah Bobong",
+    "Developer Web Maluku Utara",
     "Jasa Web Premium",
     "Next.js Developer Indonesia",
     "Jasa Landing Page",
@@ -31,7 +37,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Ibra Digital Engineering | Jasa Pembuatan Website Premium",
-    description: "Desain website premium berstandar Apple HIG, performa super cepat dengan Next.js & Supabase, serta keamanan tingkat tinggi.",
+    description: "Jasa pembuatan website premium di Bobong, Pulau Taliabu, Maluku Utara. Desain berstandar Apple HIG, performa super cepat Next.js, dan keamanan tingkat tinggi.",
     url: "https://ibradigital.id",
     type: "website",
     images: [
@@ -46,7 +52,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Ibra Digital Engineering | Jasa Pembuatan Website Premium",
-    description: "Desain website premium berstandar Apple HIG, performa super cepat dengan Next.js & Supabase, serta keamanan tingkat tinggi.",
+    description: "Jasa pembuatan website premium di Bobong, Pulau Taliabu, Maluku Utara. Desain berstandar Apple HIG, performa super cepat Next.js, dan keamanan tingkat tinggi.",
     images: ["/assets/ibra-digital-logo-v3.png"],
   },
 };
@@ -73,9 +79,23 @@ export default function HomePage() {
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Bobong",
-      "addressRegion": "Maluku Utara",
+      "addressRegion": "Pulau Taliabu, Maluku Utara",
       "addressCountry": "ID"
     },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Bobong"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Pulau Taliabu"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Maluku Utara"
+      }
+    ],
     "description": "Layanan Pembuatan Website Premium berstandar Apple HIG, performa super cepat dengan Next.js & Supabase, serta keamanan tingkat tinggi.",
     "sameAs": [
       "https://www.ibraglobalenglish.uk"

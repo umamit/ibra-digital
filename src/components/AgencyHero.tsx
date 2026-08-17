@@ -15,7 +15,7 @@ export default function AgencyHero() {
           Helping Businesses Scale with <span className={styles.gradientText}>Digital Excellence</span>
         </h1>
         <p className={styles.heroSubtitle}>
-          Your Success Starts with the Right Strategy. Kami membangun landing page, portal bisnis, dan aplikasi web modern berbasis Next.js, Supabase, 
+          Your Success Starts with the Right Strategy. Kami adalah penyedia jasa pembuatan website premium di Bobong, Pulau Taliabu, Maluku Utara yang membangun landing page, portal bisnis, dan aplikasi web modern berbasis Next.js, Supabase, 
           dan Cloudflare. Menghadirkan estetika premium Apple HIG, keamanan data super ketat, dan kecepatan optimal.
         </p>
         <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem 1rem", marginBottom: "2rem", position: "relative", zIndex: 1 }}>
