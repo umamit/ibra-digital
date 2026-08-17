@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import styles from "./digital-agency.module.css";
 import TechLogoGrid from "@/components/TechLogoGrid";
 import WorkingProcess from "@/components/WorkingProcess";
@@ -14,6 +14,18 @@ import AgencyOrderForm from "@/components/AgencyOrderForm";
 
 export default function DigitalAgencyClient() {
   const containerRef = useRef<HTMLDivElement>(null);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+  useEffect(() => {
+    if (mobileMenuOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [mobileMenuOpen]);
 
   useEffect(() => {
     if (typeof window === "undefined" || window.innerWidth <= 768) return;
@@ -77,6 +89,8 @@ export default function DigitalAgencyClient() {
               <span className={styles.logoTagline}>Building Ideas, Digitally</span>
             </div>
           </a>
+
+          {/* Desktop Navigation */}
           <nav className={styles.navLinks}>
             <a href="#features" className={styles.navLink}>Keunggulan</a>
             <a href="#portfolio" className={styles.navLink}>Portofolio</a>
@@ -84,7 +98,30 @@ export default function DigitalAgencyClient() {
             <a href="#faq" className={styles.navLink}>FAQ</a>
             <a href="#order" className={styles.navLink}>Pesan Sekarang</a>
           </nav>
-          <a href="#order" className={styles.navCTA}>Konsultasi Gratis</a>
+          <a href="#order" className={`${styles.navCTA} ${styles.desktopCTA}`}>Konsultasi Gratis</a>
+
+          {/* Hamburger Button for Mobile */}
+          <button 
+            className={`${styles.hamburger} ${mobileMenuOpen ? styles.hamburgerActive : ""}`} 
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+            aria-label="Toggle Navigation Menu"
+          >
+            <span className={styles.hamburgerLine}></span>
+            <span className={styles.hamburgerLine}></span>
+            <span className={styles.hamburgerLine}></span>
+          </button>
+        </div>
+
+        {/* Mobile Navigation Drawer */}
+        <div className={`${styles.mobileMenu} ${mobileMenuOpen ? styles.mobileMenuOpen : ""}`}>
+          <nav className={styles.mobileNavLinks}>
+            <a href="#features" className={styles.mobileNavLink} onClick={() => setMobileMenuOpen(false)}>Keunggulan</a>
+            <a href="#portfolio" className={styles.mobileNavLink} onClick={() => setMobileMenuOpen(false)}>Portofolio</a>
+            <a href="#pricing" className={styles.mobileNavLink} onClick={() => setMobileMenuOpen(false)}>Paket Harga</a>
+            <a href="#faq" className={styles.mobileNavLink} onClick={() => setMobileMenuOpen(false)}>FAQ</a>
+            <a href="#order" className={styles.mobileNavLink} onClick={() => setMobileMenuOpen(false)}>Pesan Sekarang</a>
+            <a href="#order" className={styles.mobileCTA} onClick={() => setMobileMenuOpen(false)}>Konsultasi Gratis</a>
+          </nav>
         </div>
       </header>
 
