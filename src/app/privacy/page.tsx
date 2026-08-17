@@ -3,6 +3,9 @@ import React from "react";
 export const metadata = {
   title: "Kebijakan Privasi | Ibra Digital Engineering",
   description: "Kebijakan Privasi resmi Ibra Digital Engineering.",
+  alternates: {
+    canonical: "https://ibradigital.id/privacy",
+  },
 };
 
 export default function PrivacyPage() {

@@ -3,6 +3,9 @@ import React from "react";
 export const metadata = {
   title: "Syarat & Ketentuan | Ibra Digital Engineering",
   description: "Syarat & Ketentuan Layanan resmi Ibra Digital Engineering.",
+  alternates: {
+    canonical: "https://ibradigital.id/terms",
+  },
 };
 
 export default function TermsPage() {
