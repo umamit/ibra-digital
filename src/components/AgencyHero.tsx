@@ -18,14 +18,11 @@ export default function AgencyHero() {
           Your Success Starts with the Right Strategy. Kami adalah penyedia jasa pembuatan website premium di Bobong, Pulau Taliabu, Maluku Utara yang membangun landing page, portal bisnis, dan aplikasi web modern berbasis Next.js, Supabase, 
           dan Cloudflare. Menghadirkan estetika premium Apple HIG, keamanan data super ketat, dan kecepatan optimal.
         </p>
-        <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem 1rem", marginBottom: "2rem", position: "relative", zIndex: 1 }}>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>SEO</span>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>•</span>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>Social Media</span>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>•</span>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>Branding</span>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>•</span>
-          <span style={{ fontSize: "0.85rem", fontWeight: 700, color: "var(--color-primary)", backgroundColor: "var(--color-primary-light)", padding: "0.3rem 0.8rem", borderRadius: "9999px" }}>Web & App Development</span>
+        <div className={styles.tagList}>
+          <span className={styles.tagItem}>SEO</span>
+          <span className={styles.tagItem}>Social Media</span>
+          <span className={styles.tagItem}>Branding</span>
+          <span className={styles.tagItem}>Web & App Development</span>
         </div>
         <div className={styles.heroActions}>
           <a href="#order" className={styles.btnPrimary}>Mulai Proyek</a>

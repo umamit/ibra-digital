@@ -132,3 +132,29 @@
     width: 80%;
   }
 }
+
+.tagList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 32px;
+  position: relative;
+  z-index: 1;
+}
+
+.tagItem {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  background-color: var(--color-primary-light);
+  padding: 6px 16px;
+  border-radius: var(--radius-full);
+  transition: all var(--transition-fast);
+}
+
+.tagItem:hover {
+  background-color: var(--color-primary);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
