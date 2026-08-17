@@ -56,7 +56,11 @@ export default function DigitalAgencyClient() {
   }, []);
 
   return (
-    <div className={styles.pageWrapper} ref={containerRef}>
+    <div 
+      className={styles.pageWrapper} 
+      ref={containerRef}
+      onContextMenu={(e) => e.preventDefault()}
+    >
       {/* ── Navigation Bar ── */}
       <header className={styles.navbar}>
         <div className={styles.navContainer}>
