@@ -1,15 +1,14 @@
 # PERJANJIAN PENGERJAAN WEBSITE SUKARELA (PRO-BONO)
-**IBRA DIGITAL ENGINEERING**
+**INDIVIDUAL SERVICE PROVIDER**
 
-No. Dokumen: [____/IDE/PRO-BONO/[BULAN]/[TAHUN]]
+No. Dokumen: [____/AESU/PRO-BONO/[BULAN]/[TAHUN]]
 
 Perjanjian Kerja Sama Sukarela ini (selanjutnya disebut "Perjanjian") dibuat dan ditandatangani pada hari ini, [Hari], tanggal [Tanggal] bulan [Bulan] tahun [Tahun] ([DD-MM-YYYY]), oleh dan di antara pihak-pihak berikut:
 
-1.  **Nama**: [Nama Perwakilan IDE]
-    **Instansi**: IBRA Digital Engineering
-    **Alamat**: [Alamat Kantor IDE, Bobong, Pulau Taliabu, Maluku Utara]
-    **Kontak**: +62 813-5700-1357
-    Dalam hal ini bertindak untuk dan atas nama **IBRA Digital Engineering**, selaku penyedia jasa pengembangan secara sukarela, yang selanjutnya disebut sebagai **PEMBERI HIBAH JASA**.
+1.  **Nama**: Anhar Ekho Sulasmin Umamit, S.T.
+    **Alamat**: [Alamat Lengkap Anda, Bobong, Pulau Taliabu, Maluku Utara]
+    **Kontak**: [Nomor HP/WhatsApp Anda]
+    Dalam hal ini bertindak selaku pribadi penyedia jasa pengembangan secara sukarela secara individual, yang selanjutnya disebut sebagai **PEMBERI HIBAH JASA**.
 
 2.  **Nama**: [Nama Lengkap Penerima]
     **Jabatan**: [Jabatan Penerima, misal: Ketua Yayasan / Kepala Sekolah]
@@ -44,8 +43,8 @@ PEMBERI HIBAH JASA dan PENERIMA HIBAH JASA secara bersama-sama disebut sebagai *
 ---
 
 ### PASAL 4: HAK PUBLISITAS & ATRIBUSI PORTFOLIO
-1.  PEMBERI HIBAH JASA memiliki hak penuh untuk mencantumkan tautan/kredit pembuat di bagian bawah website (footer) berupa tulisan: **"Designed & Developed by Ibra Digital Engineering"** atau sejenisnya.
-2.  PEMBERI HIBAH JASA berhak memublikasikan proyek ini sebagai bagian dari studi kasus portofolio karya pada website resmi ibradigital.id untuk keperluan branding agensi.
+1.  PEMBERI HIBAH JASA memiliki hak penuh untuk mencantumkan tautan/kredit pembuat di bagian bawah website (footer) berupa tulisan: **"Designed & Developed by Anhar Ekho Sulasmin Umamit, S.T."** atau sejenisnya.
+2.  PEMBERI HIBAH JASA berhak memublikasikan proyek ini sebagai bagian dari studi kasus portofolio karya pribadi untuk keperluan profesional branding.
 
 ---
 
@@ -65,10 +64,10 @@ Perjanjian ini dibuat dan ditandatangani oleh PARA PIHAK dengan iktikad baik unt
 
 | PEMBERI HIBAH JASA | PENERIMA HIBAH JASA |
 | :---: | :---: |
-| **IBRA Digital Engineering** | **[Nama Instansi/Penerima Manfaat]** |
+| **Penyedia Jasa (Individu)** | **[Nama Instansi/Penerima Manfaat]** |
 | | |
 | | |
 | *Ttd & Cap* | *Ttd & Cap* |
 | | |
-| **([Nama Perwakilan IDE])** | **([Nama Lengkap Penerima])** |
+| **(Anhar Ekho Sulasmin Umamit, S.T.)** | **([Nama Lengkap Penerima])** |
 | Pemberi Hibah Jasa | Penerima Hibah Jasa |
