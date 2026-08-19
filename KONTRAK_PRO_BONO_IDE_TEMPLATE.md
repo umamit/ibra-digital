@@ -32,6 +32,7 @@ PEMBERI HIBAH JASA dan PENERIMA HIBAH JASA secara bersama-sama disebut sebagai *
 ### PASAL 2: TANGGUNG JAWAB BIAYA INFRASTRUKTUR (DOMAIN & HOSTING)
 1.  Meskipun biaya jasa pengerjaan bersifat sukarela (gratis), biaya sewa infrastruktur pihak ketiga seperti **pembelian/perpanjangan nama domain (.id / .sch.id / .com)** dan **biaya langganan bulanan/tahunan hosting/cloud database/storage** sepenuhnya menjadi tanggung jawab **PENERIMA HIBAH JASA**.
 2.  PEMBERI HIBAH JASA akan membantu proses pendaftaran akun infrastruktur atas nama PENERIMA HIBAH JASA, namun tagihan pembayaran sewa wajib diselesaikan langsung oleh PENERIMA HIBAH JASA.
+3.  Pendaftaran nama domain resmi sekolah and hosting wajib didaftarkan menggunakan alamat email resmi milik PENERIMA HIBAH JASA, dan dilarang keras menggunakan alamat email pribadi milik PEMBERI HIBAH JASA.
 
 ---
 
@@ -41,6 +42,7 @@ PEMBERI HIBAH JASA dan PENERIMA HIBAH JASA secara bersama-sama disebut sebagai *
     *   Sistem Presensi Digital Guru berbasis Geofence GPS & Absensi Selfie Liveness Detection (PWA & APK Android).
     *   Platform Ruang Ajar Digital & Learning Hub (LMS) untuk pendidik dan peserta didik.
 2.  Penambahan fitur kompleks di luar ekosistem sekolah di atas (seperti portal niaga/e-commerce komersial, integrasi sistem pembayaran otomatis pihak ketiga/payment gateway, dan modul eksternal lainnya yang tidak disepakati) berada di luar cakupan hibah jasa sukarela ini dan wajib disepakati kembali oleh PARA PIHAK melalui kontrak komersial terpisah.
+3.  PENERIMA HIBAH JASA berkewajiban menyediakan seluruh data informasi, teks, sejarah sekolah, foto guru, logo instansi, serta materi visi-misi yang dibutuhkan. PEMBERI HIBAH JASA dibebaskan dari tanggung jawab pencarian, penulisan, maupun penyusunan konten informasi tersebut.
 
 ---
 
@@ -58,7 +60,9 @@ Karena pekerjaan ini diselesaikan secara sukarela:
 ---
 
 ### PASAL 6: SERAH TERIMA & KEPEMILIKAN
-Setelah website diluncurkan secara publik (*live*), seluruh hak akses kredensial administrasi sistem akan diserahterimakan kepada PENERIMA HIBAH JASA. Tanggung jawab pengisian berita, pengelolaan isi, dan keamanan akun selanjutnya berada sepenuhnya di bawah kendali PENERIMA HIBAH JASA.
+1.  Setelah website diluncurkan secara publik (*live*), seluruh hak akses kredensial administrasi sistem akan diserahterimakan kepada PENERIMA HIBAH JASA. Tanggung jawab pengisian berita, pengelolaan isi, dan keamanan akun selanjutnya berada sepenuhnya di bawah kendali PENERIMA HIBAH JASA.
+2.  Kewajiban PEMBERI HIBAH JASA pasca-peluncuran dibatasi hanya untuk memberikan 1 (satu) kali sesi tutorial/pelatihan teknis cara pengisian berita, pengelolaan konten, dan cara unggah nilai.
+3.  Setelah serah terima sistem selesai dilaksanakan, PEMBERI HIBAH JASA dibebaskan secara penuh dari tanggung jawab pemeliharaan (*maintenance*) rutin, dukungan teknis operasional harian, atau perbaikan eror sistem di masa depan.
 
 ---
 
