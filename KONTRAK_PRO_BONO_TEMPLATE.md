@@ -38,7 +38,7 @@ PEMBERI HIBAH JASA dan PENERIMA HIBAH JASA secara bersama-sama disebut sebagai *
     *   Halaman profil instansi statis (Landing Page).
     *   Halaman artikel/berita atau galeri kegiatan sederhana.
     *   Formulir kontak hubungi kami.
-2.  Penambahan fitur kompleks (seperti e-commerce, sistem ujian online, multi-user role backend) berada di luar cakupan hibah jasa sukarela ini dan harus disepakati kembali oleh PARA PIHAK melalui kontrak komersial terpisah.
+2.  Penambahan fitur kompleks dan aplikasi terpisah di luar modul standar (seperti *Sistem Presensi Guru berbasis Geofence GPS*, *Platform Perangkat Ajar Digital / Learning Management System (LMS)*, portal niaga/e-commerce, sistem ujian online, dan dasbor multi-level database) berada di luar cakupan hibah jasa sukarela ini dan wajib disepakati kembali oleh PARA PIHAK melalui kontrak komersial terpisah.
 
 ---
 
