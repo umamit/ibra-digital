@@ -44,9 +44,14 @@ PIHAK PERTAMA bersedia melaksanakan dan menyelesaikan pekerjaan pembuatan sistem
 
 ---
 
-### PASAL 3: WAKTU PENGERJAAN & PENYERAHAN
+### PASAL 3: WAKTU PENGERJAAN, TAHAPAN, & PENYERAHAN
 1.  PIHAK PERTAMA berkomitmen untuk menyelesaikan pengerjaan dalam jangka waktu **[Jumlah_Hari] hari kerja** terhitung setelah Pembayaran Uang Muka (Termin I) diterima dan seluruh data/bahan materi awal telah diserahkan oleh PIHAK KEDUA.
-2.  Jadwal pengerjaan dapat disesuaikan kembali apabila terjadi keterlambatan penyerahan materi (seperti logo, struktur teks, foto, atau data pendukung) dari PIHAK KEDUA kepada PIHAK PERTAMA.
+2.  Alur tahapan pengerjaan proyek disepakati oleh PARA PIHAK terbagi dalam 4 (empat) fase sebagai berikut:
+    *   **Fase 1 (Analisis & Desain)**: Pengumpulan bahan materi dan penentuan tata letak visual. PIHAK KEDUA wajib memberikan persetujuan desain visual (*layout approval*) sebelum penulisan kode dimulai.
+    *   **Fase 2 (Pengembangan / Coding)**: Pengerjaan kode pemrograman inti, konfigurasi basis data Supabase, dan integrasi API oleh PIHAK PERTAMA.
+    *   **Fase 3 (Pengujian / UAT)**: Pengujian sistem secara bersama (*User Acceptance Testing*). PIHAK KEDUA berhak mengajukan revisi minor (seperti perubahan teks, warna, atau posisi tombol) maksimal **2 (dua) kali** dalam jangka waktu **[Jumlah_Hari_UAT, misal: 5] hari** pada fase ini.
+    *   **Fase 4 (Pelunasan & Serah Terima)**: Pelunasan sisa nilai kontrak (Termin II) oleh PIHAK KEDUA, diikuti dengan serah terima kredensial akses administrasi sistem penuh (*go-live*) oleh PIHAK PERTAMA.
+3.  Jadwal waktu pengerjaan dapat disesuaikan kembali apabila terjadi keterlambatan penyerahan materi (seperti logo, struktur teks, foto, atau data pendukung) dari PIHAK KEDUA kepada PIHAK PERTAMA.
 
 ---
 
