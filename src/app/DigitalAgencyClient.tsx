@@ -83,6 +83,7 @@ export default function DigitalAgencyClient() {
               width={70} 
               height={70} 
               className={styles.logoImg} 
+              fetchPriority="high"
             />
             <div className={styles.logoInfo}>
               <span className={styles.logoText}>IBRA Digital Engineering</span>

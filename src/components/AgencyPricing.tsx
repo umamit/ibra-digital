@@ -72,6 +72,10 @@ export default function AgencyPricing() {
             <a href="#order" className={styles.btnSecondary} style={{ textAlign: "center" }}>Pilih Paket</a>
           </div>
         </div>
+
+        <p className={styles.disclaimer}>
+          * Biaya di atas merupakan biaya pengembangan sistem awal (development fee). Biaya berlangganan tahunan (hosting, domain, SSL, database Supabase, dan pemeliharaan keamanan) berkisar antara Rp 500.000 s/d Rp 1.500.000 per tahun sesuai skala data. Integrasi modul premium pihak ketiga seperti kuota API WhatsApp Gateway dan kunci API AI dibebankan secara transparan sesuai penggunaan masing-masing klien.
+        </p>
       </section>
     </div>
   );
