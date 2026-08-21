@@ -66,6 +66,29 @@ Karena pekerjaan ini diselesaikan secara sukarela:
 
 ---
 
+### PASAL 7: ALUR TAHAPAN PENGERJAAN (FASE SUKARELA)
+1.  Alur pengerjaan proyek sukarela ini disepakati terbagi dalam 4 (empat) fase berikut:
+    *   **Fase 1 (Pengumpulan Materi)**: PENERIMA HIBAH JASA wajib menyerahkan seluruh data yang dibutuhkan (logo instansi, teks profil, foto, dll.) kepada PEMBERI HIBAH JASA dalam waktu **[Jumlah_Hari, misal: 7] hari kalender** setelah penandatanganan. Keterlambatan penyerahan materi oleh PENERIMA HIBAH JASA secara otomatis menggeser seluruh estimasi waktu penyelesaian tanpa sanksi bagi PEMBERI HIBAH JASA.
+    *   **Fase 2 (Desain & Pengembangan)**: Penulisan kode dan desain antarmuka dilaksanakan oleh PEMBERI HIBAH JASA. PENERIMA HIBAH JASA memberikan persetujuan desain visual (*layout approval*) secara tertulis (WhatsApp) sebelum sistem dilanjutkan ke integrasi database.
+    *   **Fase 3 (Pengujian Bersama)**: PENERIMA HIBAH JASA berhak mengajukan revisi minor (seperti koreksi teks atau warna) maksimal **1 (satu) kali** dalam jangka waktu **[Jumlah_Hari, misal: 3] hari**.
+    *   **Fase 4 (Serah Terima)**: Penyerahan akses administrasi, 1 sesi pelatihan penggunaan, dan peluncuran sistem ke publik (*go-live*).
+2.  PEMBERI HIBAH JASA tidak terikat pada tenggat waktu penyelesaian yang kaku, mengingat pekerjaan ini dilaksanakan secara sukarela di luar jam kerja dan kewajiban utama PEMBERI HIBAH JASA.
+
+---
+
+### PASAL 8: KEADAAN KAHAR (FORCE MAJEURE)
+1.  Yang dimaksud dengan Keadaan Kahar (*Force Majeure*) adalah setiap peristiwa di luar kendali PEMBERI HIBAH JASA yang mengakibatkan tertundanya penyelesaian proyek, termasuk namun tidak terbatas pada: pemadaman listrik berkepanjangan, gangguan jaringan internet di wilayah Pulau Taliabu, bencana alam, atau keadaan darurat yang ditetapkan oleh pemerintah.
+2.  Apabila Keadaan Kahar terjadi, estimasi waktu penyelesaian proyek sukarela ini secara otomatis diperpanjang tanpa kewajiban pemberitahuan formal dari PEMBERI HIBAH JASA.
+
+---
+
+### PASAL 9: HAK PENARIKAN HIBAH & PENGHENTIAN PROYEK
+1.  PEMBERI HIBAH JASA berhak menghentikan dan menarik kembali hibah jasa sukarela ini sewaktu-waktu apabila PENERIMA HIBAH JASA terbukti melanggar ketentuan perjanjian ini, terutama apabila: PENERIMA HIBAH JASA menuntut fitur di luar ruang lingkup Pasal 3, menolak membayar biaya infrastruktur yang menjadi kewajiban mereka (Pasal 2), atau bersikap tidak kooperatif dalam menyediakan materi yang dibutuhkan.
+2.  Apabila PENERIMA HIBAH JASA secara sepihak membatalkan proyek setelah PEMBERI HIBAH JASA telah memulai pengerjaan (Fase 2 atau lebih lanjut), PEMBERI HIBAH JASA berhak memublikasikan dokumentasi karya parsial tersebut sebagai portofolio karya agensi pada website resmi ibradigital.id tanpa kewajiban kompensasi apapun kepada PENERIMA HIBAH JASA.
+3.  Dalam kondisi penarikan hibah atau pembatalan oleh PENERIMA HIBAH JASA, tidak ada kewajiban pengembalian waktu, tenaga, maupun biaya infrastruktur pendukung yang telah dikeluarkan oleh PEMBERI HIBAH JASA.
+
+---
+
 Perjanjian ini dibuat dan ditandatangani oleh PARA PIHAK dengan iktikad baik untuk memajukan digitalisasi layanan sosial/pendidikan/keagamaan masyarakat di wilayah Pulau Taliabu.
 
 | PEMBERI HIBAH JASA | PENERIMA HIBAH JASA |
