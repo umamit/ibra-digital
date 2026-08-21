@@ -6,6 +6,10 @@ export const metadata = {
   alternates: {
     canonical: "https://ibradigital.id/terms",
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function TermsPage() {

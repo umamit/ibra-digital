@@ -6,6 +6,10 @@ export const metadata = {
   alternates: {
     canonical: "https://ibradigital.id/privacy",
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function PrivacyPage() {
