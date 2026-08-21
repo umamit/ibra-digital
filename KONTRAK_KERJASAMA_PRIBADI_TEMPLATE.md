@@ -77,7 +77,28 @@ PIHAK PERTAMA bersedia melaksanakan dan menyelesaikan pekerjaan pembuatan sistem
 
 ---
 
-### PASAL 7: PENYELESAIAN PERSELISIHAN
+### PASAL 7: PENAMBAHAN FITUR DI LUAR RUANG LINGKUP (ANTI SCOPE CREEP)
+1.  Seluruh fitur dan layanan yang akan dikerjakan oleh PIHAK PERTAMA terbatas pada rincian yang telah disebutkan secara eksplisit di Pasal 1 perjanjian ini.
+2.  Setiap permintaan penambahan fitur baru, modul baru, halaman baru, atau perubahan signifikan pada arsitektur sistem yang tidak tercantum di Pasal 1 (di luar cakupan revisi minor pada Fase UAT) dikategorikan sebagai **pekerjaan tambahan (*additional work*)** dan wajib disepakati biayanya secara tertulis melalui Adendum Kontrak tersendiri sebelum dikerjakan.
+3.  PIHAK PERTAMA berhak menolak mengerjakan permintaan tambahan fitur tanpa kompensasi biaya yang telah disepakati.
+
+---
+
+### PASAL 8: PEMBATALAN KONTRAK & DENDA KETERLAMBATAN PEMBAYARAN
+1.  Apabila PIHAK KEDUA membatalkan secara sepihak kontrak pekerjaan ini setelah penandatanganan, Uang Muka (Termin I) yang telah dibayarkan **tidak dapat dikembalikan** (*non-refundable*) dan menjadi kompensasi sah atas waktu dan tenaga yang telah dicurahkan oleh PIHAK PERTAMA.
+2.  Apabila PIHAK KEDUA membatalkan kontrak pada saat pengerjaan sudah melewati Fase 2 (Pengembangan) dan kemajuan pekerjaan sudah melebihi 50%, PIHAK KEDUA wajib membayar tambahan biaya kompensasi sebesar **[Persentase, misal: 25%]** dari nilai kontrak di luar Uang Muka yang sudah dibayarkan.
+3.  Apabila PIHAK KEDUA terlambat melakukan pembayaran Termin II (Pelunasan) melebihi batas **7 (tujuh) hari kalender** setelah sistem dinyatakan siap serah terima (*go-live ready*), PIHAK PERTAMA berhak menangguhkan (*suspend*) akses sistem hingga pembayaran diselesaikan.
+
+---
+
+### PASAL 9: KEADAAN KAHAR (FORCE MAJEURE)
+1.  Yang dimaksud dengan Keadaan Kahar (*Force Majeure*) dalam perjanjian ini adalah setiap peristiwa di luar kendali dan kemampuan PARA PIHAK yang mengakibatkan tertundanya pelaksanaan kewajiban, termasuk namun tidak terbatas pada: bencana alam, gempa bumi, banjir, pemadaman listrik massal berkepanjangan, gangguan jaringan internet atau infrastruktur komunikasi di wilayah Pulau Taliabu, serta keadaan darurat yang ditetapkan oleh pemerintah.
+2.  Apabila PIHAK PERTAMA mengalami Keadaan Kahar yang menyebabkan keterlambatan dalam penyelesaian pekerjaan, maka batas waktu pengerjaan pada Pasal 3 secara otomatis diperpanjang selama durasi Keadaan Kahar berlangsung tanpa dikenakan sanksi atau penalti apapun.
+3.  PIHAK PERTAMA wajib memberitahukan PIHAK KEDUA secara tertulis (minimal melalui pesan WhatsApp) selambat-lambatnya **3 (tiga) hari** sejak terjadinya Keadaan Kahar.
+
+---
+
+### PASAL 10: PENYELESAIAN PERSELISIHAN
 Apabila terjadi perselisihan atau perbedaan pendapat di kemudian hari mengenai penafsiran atau pelaksanaan perjanjian ini, PARA PIHAK sepakat untuk menyelesaikannya terlebih dahulu secara musyawarah untuk mufakat. Apabila jalan kekeluargaan tidak tercapai, perselisihan akan diselesaikan melalui jalur hukum yang berlaku di wilayah hukum Kabupaten Pulau Taliabu.
 
 ---
