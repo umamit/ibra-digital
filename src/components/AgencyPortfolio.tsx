@@ -310,6 +310,56 @@ export default function AgencyPortfolio() {
             </div>
           </div>
         </div>
+
+        <div className={styles.showcase} style={{ marginTop: "40px" }}>
+          <div className={styles.showcaseContent}>
+            <span className={styles.showcaseTag}>Government GIS & Infrastructure Platform</span>
+            <h3 className={styles.showcaseTitle}>Sistem Informasi Pemetaan & Analisis Drainase Jalan (SI-PAJA) — Dinas PUPR Pulau Taliabu</h3>
+            <p className={styles.showcaseDesc}>
+              Platform Sistem Informasi Geografis (GIS) terpadu yang dirancang khusus untuk Bidang Sumber Daya Air (SDA) Dinas Pekerjaan Umum dan Penataan Ruang (PUPR) Kabupaten Pulau Taliabu. Berfungsi untuk memetakan, mendokumentasikan, dan menganalisis segmen drainase jalan secara real-time. Dilengkapi modul survei lapangan berbasis GPS koordinat presisi, pelaporan pengaduan infrastruktur publik oleh masyarakat secara paperless, log pemeliharaan preventif parit, serta visualisasi pemetaan elevasi dan koordinat spasial.
+            </p>
+            <div className={styles.techTags}>
+              <span className={styles.techTag}>Next.js (App Router)</span>
+              <span className={styles.techTag}>React & TypeScript</span>
+              <span className={styles.techTag}>Supabase Database (RLS)</span>
+              <span className={styles.techTag}>Leaflet GIS Mapping</span>
+              <span className={styles.techTag}>Tailwind CSS & Shadcn UI</span>
+              <span className={styles.techTag}>PostgreSQL Spasial</span>
+            </div>
+            <div style={{ marginTop: "32px" }}>
+              <a href="https://sipaja.taliabukab.go.id" target="_blank" rel="noopener noreferrer" className={styles.btnSecondary} style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
+                Kunjungi Portal SI-PAJA
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+                  <polyline points="15 3 21 3 21 9" />
+                  <line x1="10" y1="14" x2="21" y2="3" />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className={styles.showcaseCard}>
+            <div className={styles.macOSHeader}>
+              <span className={`${styles.macOSDot} ${styles.macOSDotRed}`}></span>
+              <span className={`${styles.macOSDot} ${styles.macOSDotYellow}`}></span>
+              <span className={`${styles.macOSDot} ${styles.macOSDotGreen}`}></span>
+            </div>
+            <div style={{ paddingBottom: "16px", borderBottom: "1px solid rgba(0,0,0,0.06)", marginBottom: "20px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+              <span style={{ fontWeight: 700, fontSize: "0.9rem", color: "var(--color-primary)", display: "inline-flex", alignItems: "center", gap: "6px" }}><i className="fi fi-rr-map-marker"></i> GEOSPATIAL GIS SYSTEM</span>
+              <span style={{ fontSize: "0.75rem", backgroundColor: "var(--color-green-light)", color: "var(--color-green)", padding: "2px 8px", borderRadius: "12px", fontWeight: "bold" }}>99.9% Uptime</span>
+            </div>
+            <ul className={styles.featuresList}>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Pemetaan Spasial & Visualisasi Jalur Drainase</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Modul Survei Lapangan dengan GPS Koordinat Presisi</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Log Pemeliharaan Preventif & Penanganan Aduan Publik</li>
+              <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Dasbor Surveyor & Admin Dinas PUPR (Multi-role)</li>
+            </ul>
+            <div style={{ background: "#ebf0f4", padding: "16px", borderRadius: "var(--radius-lg)", border: "1px solid rgba(0,0,0,0.05)" }}>
+              <span style={{ fontSize: "0.8rem", color: "var(--color-gray-500)", fontStyle: "italic" }}>
+                "Digitalisasi pemetaan infrastruktur drainase jalan dan ketahanan sumber daya air pertama di Kabupaten Pulau Taliabu."
+              </span>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   );
