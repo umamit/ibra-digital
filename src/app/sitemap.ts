@@ -1,24 +1,27 @@
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = "https://ibradigital.id";
+  const lastModified = new Date();
+
   return [
     {
-      url: "https://ibradigital.id",
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 1,
+      url: `${baseUrl}/`,
+      lastModified,
+      changeFrequency: "daily",
+      priority: 1.0,
     },
     {
-      url: "https://ibradigital.id/privacy",
-      lastModified: new Date(),
+      url: `${baseUrl}/terms`,
+      lastModified,
       changeFrequency: "monthly",
-      priority: 0.3,
+      priority: 0.5,
     },
     {
-      url: "https://ibradigital.id/terms",
-      lastModified: new Date(),
+      url: `${baseUrl}/privacy`,
+      lastModified,
       changeFrequency: "monthly",
-      priority: 0.3,
+      priority: 0.5,
     },
   ];
 }
