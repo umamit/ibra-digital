@@ -32,7 +32,7 @@ PEMBERI HIBAH JASA dan PENERIMA HIBAH JASA secara bersama-sama disebut sebagai *
 ### PASAL 2: TANGGUNG JAWAB BIAYA INFRASTRUKTUR (DOMAIN & HOSTING)
 1.  Meskipun biaya jasa pengerjaan bersifat sukarela (gratis), biaya sewa infrastruktur pihak ketiga seperti **pembelian/perpanjangan nama domain (.id / .sch.id / .com)** dan **biaya langganan bulanan/tahunan hosting/cloud database/storage** sepenuhnya menjadi tanggung jawab **PENERIMA HIBAH JASA**.
 2.  PEMBERI HIBAH JASA akan membantu proses pendaftaran akun infrastruktur atas nama PENERIMA HIBAH JASA, namun tagihan pembayaran sewa wajib diselesaikan langsung oleh PENERIMA HIBAH JASA.
-3.  Pendaftaran nama domain resmi sekolah and hosting wajib didaftarkan menggunakan alamat email resmi milik PENERIMA HIBAH JASA, dan dilarang keras menggunakan alamat email pribadi milik PEMBERI HIBAH JASA.
+3.  Pendaftaran nama domain resmi sekolah dan hosting wajib didaftarkan menggunakan alamat email resmi milik PENERIMA HIBAH JASA, dan dilarang keras menggunakan alamat email pribadi milik PEMBERI HIBAH JASA.
 
 ---
 
