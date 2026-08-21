@@ -23,13 +23,12 @@ const TECH_ITEMS = [
   {
     name: "Supabase",
     svg: (
-      <svg className={styles.techLogoSvg} viewBox="0 0 106 106" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M64.66 102.86C61.42 106.82 54.88 104.42 55.12 99.32L58.54 26.9L94.9 26.9C102.74 26.9 107.02 36.02 101.96 42.18L64.66 102.86Z" fill="url(#supa_a)" />
-        <path d="M41.34 3.14C44.58 -0.82 51.12 1.58 50.88 6.68L47.46 79.1L11.1 79.1C3.26 79.1 -1.02 69.98 4.04 63.82L41.34 3.14Z" fill="#3ECF8E" />
+      <svg className={styles.techLogoSvg} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.9 1.036c-.015-.986-1.26-1.41-1.874-.637L.764 12.05C-.33 13.427.65 15.455 2.409 15.455h9.579l.113 7.51c.014.985 1.259 1.408 1.873.636l9.262-11.653c1.093-1.375.113-3.403-1.645-3.403h-9.642z" fill="url(#supa_grad)" />
         <defs>
-          <linearGradient id="supa_a" x1="58.54" y1="26.9" x2="81.5" y2="102.86" gradientUnits="userSpaceOnUse">
+          <linearGradient id="supa_grad" x1="0.764" y1="0" x2="23.236" y2="24" gradientUnits="userSpaceOnUse">
             <stop stopColor="#3ECF8E" />
-            <stop offset="1" stopColor="#3ECF8E" stopOpacity="0.4" />
+            <stop offset="100%" stopColor="#249C66" />
           </linearGradient>
         </defs>
       </svg>
