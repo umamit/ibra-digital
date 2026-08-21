@@ -64,19 +64,35 @@ Setelah pembayaran lunas diterima, PIHAK PERTAMA wajib menyerahkan seluruh berka
 
 ---
 
-### PASAL 5: HAK MORAL & ATRIBUSI PENGEMBANG
-Sesuai dengan Pasal 5 UU No. 28 Tahun 2014 tentang Hak Cipta, **Hak Moral (*Moral Rights*)** yang melekat pada diri PIHAK PERTAMA selaku pencipta awal tidak dapat dialihkan. PIHAK PERTAMA tetap berhak secara hukum untuk:
-1.  Diakui dan dicantumkan namanya sebagai *Original Lead Architect / Software Author* dalam dokumentasi teknis atau portofolio pribadi.
-2.  Menggunakan logika algoritma umum, pola perancangan (*design pattern*), dan pustaka *open-source* publik yang bersifat umum untuk proyek lainnya, dengan ketentuan tidak menyalin merek dagang atau aset grafis eksklusif milik PIHAK KEDUA.
+### PASAL 5: HAK MORAL, PENGGUNAAN KOMPONEN UMUM & KEKEBALAN NON-KOMPETISI
+1.  Sesuai dengan Pasal 5 UU No. 28 Tahun 2014 tentang Hak Cipta, **Hak Moral (*Moral Rights*)** yang melekat pada diri PIHAK PERTAMA selaku pencipta awal tidak dapat dialihkan atau dihapuskan. PIHAK PERTAMA tetap berhak secara hukum untuk diakui sebagai perancang awal (*Original Software Architect*) dan mencantumkan karya ini dalam portofolio profesional.
+2.  Pengalihan kode sumber ini **tidak membatasi hak PIHAK PERTAMA** untuk terus berprofesi sebagai perekayasa perangkat lunak, termasuk hak untuk menggunakan kembali pengetahuan teknis (*know-how*), algoritma umum, pustaka *open-source*, dan pola perancangan (*boilerplate/design patterns*) untuk membangun sistem baru bagi klien lainnya di masa depan (*Non-Compete Immunity*).
 
 ---
 
-### PASAL 6: PENYELESAIAN PERSELISIHAN
-Segala perselisihan yang timbul dari penafsiran atau pelaksanaan perjanjian ini akan diselesaikan secara musyawarah mufakat. Apabila tidak tercapai mufakat, perselisihan akan diselesaikan melalui Pengadilan Negeri di wilayah hukum Kabupaten Pulau Taliabu.
+### PASAL 6: GANTI RUGI & PELEPASAN TUNTUTAN PIHAK KETIGA (INDEMNITY)
+1.  PIHAK KEDUA dengan ini membebaskan dan mengganti rugi (*indemnify and hold harmless*) PIHAK PERTAMA dari segala bentuk tuntutan hukum, gugatan perdata/pidana, kerugian finansial, sengketa hak paten, kebocoran data pengguna akhir, atau sanksi regulasi pemerintah yang timbul akibat pemanfaatan, monetisasi, atau modifikasi sistem oleh PIHAK KEDUA pasca-serah terima.
+2.  PIHAK PERTAMA tidak bertanggung jawab atas biaya lisensi pihak ketiga (seperti database cloud, domain, API eksternal) yang berjalan setelah tanggal serah terima kepemilikan.
 
 ---
 
-Demikian Surat Perjanjian Pengalihan Hak Cipta & Kode Sumber (*Source Code Buyout*) ini dibuat dalam 2 (dua) rangkap asli bermaterai cukup (Rp10.000) dan ditandatangani oleh PARA PIHAK dalam keadaan sadar tanpa paksaan.
+### PASAL 7: KERAHASIAAN & PENGHENTIAN HAK AKSES DEVELOPER
+1.  Setelah seluruh berkas repositori master diserahkan, hak akses harian PIHAK PERTAMA ke server produksi milik PIHAK KEDUA resmi diputus (*access revocation*), kecuali apabila PARA PIHAK menyepakati kontrak pemeliharaan berbayar (*Paid SLA Maintenance*) secara terpisah.
+2.  PARA PIHAK tetap berkewajiban menjaga kerahasiaan rincian nilai transaksi finansial dalam perjanjian ini dari konsumsi publik (*Strict Non-Disclosure*).
+
+---
+
+### PASAL 8: KETERPISAHAN KLAUSUL (SEVERABILITY)
+Apabila salah satu pasal dalam perjanjian ini dinyatakan tidak sah, batal, atau tidak dapat diberlakukan oleh putusan pengadilan yang berkekuatan hukum tetap, maka pasal-pasal lainnya dalam perjanjian ini tetap berlaku penuh dan mengikat PARA PIHAK.
+
+---
+
+### PASAL 9: PENYELESAIAN PERSELISIHAN & DOMISILI HUKUM
+Segala perselisihan yang timbul dari penafsiran atau pelaksanaan perjanjian ini akan diselesaikan secara musyawarah mufakat. Apabila tidak tercapai mufakat dalam waktu 30 (tiga puluh) hari kalender, perselisihan akan diselesaikan melalui jalur hukum pada Pengadilan Negeri di wilayah hukum domisili PIHAK PERTAMA (Kabupaten Pulau Taliabu).
+
+---
+
+Demikian Surat Perjanjian Pengalihan Hak Cipta & Kode Sumber (*Source Code Buyout*) ini dibuat dalam 2 (dua) rangkap asli bermaterai cukup (Rp10.000) dan ditandatangani oleh PARA PIHAK dalam keadaan sadar tanpa paksaan dari pihak mana pun.
 
 Bobong, [DD-MM-YYYY]
 
