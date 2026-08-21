@@ -32,21 +32,28 @@ export default function TermsPage() {
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>3. Hak Cipta &amp; Kepemilikan Kode</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>3. Hak Cipta &amp; Kepemilikan Kode (Source Code)</h2>
         <p>
-          Setelah seluruh kewajiban pelunasan pembayaran diselesaikan secara penuh oleh Klien, hak kepemilikan kode aplikasi kustom, berkas basis data, dan hak cipta seluruh materi visual dialihkan sepenuhnya kepada pihak Klien. Lisensi untuk kode atau pustaka pihak ketiga tetap tunduk pada lisensi aslinya masing-masing.
+          Untuk proyek pengembangan kustom penuh (*custom development*), hak kepemilikan kode aplikasi kustom, berkas basis data, dan hak cipta materi visual dialihkan sepenuhnya kepada Klien setelah pelunasan pembayaran diselesaikan. Namun, untuk sistem yang dikembangkan berbasis sewa atau lisensi (seperti modul LMS / Sekolah Pintar Suite), hak cipta kode inti sistem tetap milik Ibra Digital Engineering dan Klien hanya menerima hak guna pakai (lisensi akses). Pembelian hak cipta kode secara penuh (*Source Code Buyout*) untuk sistem berlisensi tunduk pada kontrak dan biaya kesepakatan khusus di luar paket standar.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>4. Garansi Perbaikan Bug &amp; Dukungan Server</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>4. Biaya Infrastruktur Tahunan &amp; Layanan Pihak Ketiga</h2>
         <p>
-          Kami memberikan garansi gratis perbaikan kesalahan teknis (*bug/error fixes*) serta bantuan teknis server pasca-peluncuran sesuai dengan cakupan jangka waktu paket pengerjaan yang dipilih. Garansi ini dapat gugur apabila terjadi perubahan/modifikasi kode inti secara tidak sah oleh pihak ketiga di luar tim Ibra Digital Engineering.
+          Klien berkewajiban menanggung biaya perpanjangan sewa domain dan hosting tahunan secara tepat waktu (baik melakukan pembayaran mandiri langsung ke penyedia layanan maupun melalui manajemen kami) untuk menjamin keberlangsungan hidup website. Biaya penggunaan modul premium pihak ketiga seperti kuota API WhatsApp Gateway dan token API Kecerdasan Buatan (AI) dibebankan secara transparan sesuai volume penggunaan sistem Klien masing-masing.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>5. Konsultasi &amp; Informasi Layanan</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>5. Garansi Perbaikan Bug &amp; Dukungan Pemeliharaan</h2>
+        <p>
+          Kami memberikan garansi gratis perbaikan kesalahan teknis (*bug/error fixes*) pasca-peluncuran sesuai dengan jangka waktu dan cakupan paket kontrak yang dipilih. Garansi ini dapat gugur secara otomatis apabila terjadi perubahan/modifikasi kode inti secara tidak sah oleh pihak ketiga di luar tim Ibra Digital Engineering. Biaya jasa pemeliharaan rutin bulanan/tahunan (*maintenance SLA*) diatur secara terpisah sesuai kesepakatan kontrak.
+        </p>
+      </section>
+
+      <section style={{ marginBottom: "2.5rem" }}>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>6. Konsultasi &amp; Informasi Layanan</h2>
         <p>
           Apabila terdapat pasal atau ketentuan yang memerlukan penjelasan lebih detail, Anda dapat berkonsultasi langsung dengan manajemen kami melalui WhatsApp Resmi di: <strong>+62 813-5700-1357</strong>.
         </p>
