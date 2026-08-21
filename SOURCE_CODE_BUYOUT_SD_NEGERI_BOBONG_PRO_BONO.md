@@ -67,12 +67,25 @@ Maka, PARA PIHAK sepakat untuk mengikatkan diri dalam Perjanjian Penyerahan Kode
 
 ---
 
-### PASAL 6: GANTI RUGI & PELEPASAN TUNTUTAN (INDEMNITY)
+---
+
+### PASAL 6: METODE PENYERAHAN BERKAS & KREDENSIAL
+1.  PEMBERI HIBAH KODE akan menyerahkan berkas kode sumber dalam bentuk arsip digital terkompresi (*ZIP Archive*) atau melalui undangan repositori GitHub pribadi kepada operator yang ditunjuk resmi oleh PENERIMA HIBAH KODE.
+2.  Penyerahan berkas ini disertai dokumen panduan ringkas instalasi lokal (*README.md & Environment Configuration .env*).
+
+---
+
+### PASAL 7: GANTI RUGI & PELEPASAN TUNTUTAN (INDEMNITY)
 PENERIMA HIBAH KODE dengan ini membebaskan dan melindungi (*indemnify and hold harmless*) PEMBERI HIBAH KODE dari segala bentuk tuntutan hukum, denda regulasi, kebocoran data siswa/guru, atau kerugian operasional yang timbul akibat pemanfaatan dan modifikasi kode sumber oleh pihak sekolah pasca-serah terima.
 
 ---
 
-### PASAL 7: PENYELESAIAN PERSELISIHAN
+### PASAL 8: KETERPISAHAN KLAUSUL (SEVERABILITY)
+Apabila salah satu pasal dalam perjanjian ini dinyatakan tidak sah atau tidak dapat diberlakukan oleh aturan hukum yang berlaku, maka pasal-pasal lainnya dalam perjanjian ini tetap berlaku penuh dan mengikat PARA PIHAK.
+
+---
+
+### PASAL 9: PENYELESAIAN PERSELISIHAN
 Segala perbedaan pendapat mengenai penafsiran perjanjian ini akan diselesaikan secara musyawarah kekeluargaan dengan mengedepankan asas iktikad baik bagi kemajuan pendidikan di Kabupaten Pulau Taliabu.
 
 ---
