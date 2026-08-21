@@ -24,3 +24,27 @@
   .featuredCard { transform: none; }
   .featuredCard:hover { transform: translateY(-4px); }
 }
+
+.badgePromo {
+  position: absolute;
+  top: -12px;
+  left: 24px;
+  background-color: #E44857; /* Premium soft red */
+  color: #ffffff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  box-shadow: 0 2px 8px rgba(228, 72, 87, 0.25);
+}
+
+.oldPrice {
+  font-size: 0.95rem;
+  text-decoration: line-through;
+  color: var(--color-gray-400);
+  margin-right: 8px;
+  font-weight: 500;
+  display: inline-block;
+}

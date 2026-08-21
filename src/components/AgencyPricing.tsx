@@ -16,9 +16,13 @@ export default function AgencyPricing() {
         <div className={styles.grid}>
           {/* Paket 1 */}
           <div className={`${styles.card} ${styles.pricingCard}`}>
+            <span className={styles.badgePromo}>Promo Terbatas</span>
             <h3 className={styles.cardTitle}>Landing Page Premium</h3>
             <p className={styles.cardText}>Ideal untuk portofolio, profil perusahaan, promosi event, atau bisnis lokal.</p>
-            <div className={styles.price}>Mulai Rp 899.000</div>
+            <div className={styles.price}>
+              <span className={styles.oldPrice}>Rp 1.499.000</span>
+              Mulai Rp 899.000
+            </div>
             <ul className={styles.featuresList}>
               <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> 1 Halaman Desain Berkelas</li>
               <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Integrasi Kontak & WhatsApp</li>
@@ -32,9 +36,13 @@ export default function AgencyPricing() {
           {/* Paket 2 */}
           <div className={`${styles.card} ${styles.pricingCard} ${styles.featuredCard}`}>
             <span className={styles.badge}>Populer</span>
+            <span className={styles.badgePromo} style={{ left: "auto", right: "24px" }}>Hemat 40%</span>
             <h3 className={styles.cardTitle}>Portal Bisnis / Custom Web App</h3>
             <p className={styles.cardText}>Sistem web terintegrasi dengan database, dasbor admin, dan autentikasi multi-user.</p>
-            <div className={styles.price}>Mulai Rp 1.999.000</div>
+            <div className={styles.price}>
+              <span className={styles.oldPrice}>Rp 3.499.000</span>
+              Mulai Rp 1.999.000
+            </div>
             <ul className={styles.featuresList}>
               <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Desain Apple HIG Terkustomisasi</li>
               <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Database Supabase / PostgreSQL</li>
@@ -47,9 +55,13 @@ export default function AgencyPricing() {
 
           {/* Paket 3 */}
           <div className={`${styles.card} ${styles.pricingCard}`}>
+            <span className={styles.badgePromo}>Promo Spesial</span>
             <h3 className={styles.cardTitle}>LMS & Sistem Edukasi</h3>
             <p className={styles.cardText}>Platform digital komplit untuk bimbingan belajar, sekolah formal, atau pelatihan mandiri.</p>
-            <div className={styles.price}>Mulai Rp 2.999.000</div>
+            <div className={styles.price}>
+              <span className={styles.oldPrice}>Rp 4.999.000</span>
+              Mulai Rp 2.999.000
+            </div>
             <ul className={styles.featuresList}>
               <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Semua Fitur Portal Bisnis</li>
               <li className={styles.featureItem}><i className={`fi fi-rr-check ${styles.checkIcon}`}></i> Ujian Online / Placement Test</li>
