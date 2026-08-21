@@ -149,6 +149,37 @@ const TECH_ITEMS = [
     ),
   },
   {
+    name: "Flutter",
+    svg: (
+      <svg className={styles.techLogoSvg} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z" fill="#02569B" />
+      </svg>
+    ),
+  },
+  {
+    name: "Dart",
+    svg: (
+      <svg className={styles.techLogoSvg} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4.105 4.105S9.158 1.58 11.684.316a3.079 3.079 0 0 1 1.481-.315c.766.047 1.677.788 1.677.788L24 9.948v9.789h-4.263V24H9.789l-9-9C.303 14.5 0 13.795 0 13.105c0-.319.18-.818.316-1.105l3.789-7.895zm.679.679v11.787c.002.543.021 1.024.498 1.508L10.204 23h8.533v-4.263L4.784 4.784zm12.055-.678c-.899-.896-1.809-1.78-2.74-2.643-.302-.267-.567-.468-1.07-.462-.37.014-.87.195-.87.195L6.341 4.105l10.498.001z" fill="#0175C2" />
+      </svg>
+    ),
+  },
+  {
+    name: "Kotlin",
+    svg: (
+      <svg className={styles.techLogoSvg} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 24H0V0h24L12 12Z" fill="url(#kotlin_grad)" />
+        <defs>
+          <linearGradient id="kotlin_grad" x1="0" y1="24" x2="24" y2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stopColor="#C711E1" />
+            <stop offset="50%" stopColor="#E44857" />
+            <stop offset="100%" stopColor="#7F52FF" />
+          </linearGradient>
+        </defs>
+      </svg>
+    ),
+  },
+  {
     name: "Capacitor",
     svg: (
       <svg className={styles.techLogoSvg} viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
