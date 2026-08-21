@@ -15,45 +15,52 @@ export default function TermsPage() {
         ← Kembali ke Beranda
       </a>
       <h1 style={{ fontSize: "2.25rem", fontWeight: 800, marginBottom: "0.5rem", color: "var(--color-primary-dark)", letterSpacing: "-0.02em" }}>Syarat &amp; Ketentuan Layanan</h1>
-      <p style={{ fontSize: "0.85rem", color: "var(--color-gray-500)", marginBottom: "2.5rem" }}>Terakhir Diperbarui: 18 Agustus 2026</p>
+      <p style={{ fontSize: "0.85rem", color: "var(--color-gray-500)", marginBottom: "2.5rem" }}>Terakhir Diperbarui: 21 Agustus 2026</p>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>1. Kesepakatan Awal &amp; Pengerjaan Proyek</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>1. Kesepakatan Awal, Alur Tahapan &amp; Pembayaran</h2>
         <p>
-          Setiap pengerjaan website, landing page, maupun sistem aplikasi khusus dimulai secara sah setelah spesifikasi kebutuhan proyek disepakati secara tertulis oleh kedua belah pihak dan Klien melakukan pembayaran uang muka (*down payment*) sesuai dengan invoice resmi yang kami terbitkan.
+          Setiap pengerjaan website, landing page, maupun sistem aplikasi digital terbagi dalam 4 fase: (1) Analisis &amp; Desain, (2) Pengembangan Kode, (3) Pengujian UAT (maksimal 2 kali revisi minor), dan (4) Pelunasan &amp; Serah Terima. Pengerjaan dimulai secara sah setelah spesifikasi proyek disepakati dan pembayaran Uang Muka (DP 50%) diterima. Pelunasan sisa nilai kontrak (50%) wajib diselesaikan sebelum penyerahan kredensial akses penuh (*go-live*). Keterlambatan pembayaran pelunasan melebihi 7 hari kalender memberikan hak kepada kami untuk menangguhkan (*suspend*) akses operasional sistem.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>2. Batasan Waktu &amp; Keterlambatan Konten</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>2. Batasan Waktu &amp; Keterlambatan Materi</h2>
         <p>
-          Ibra Digital Engineering berkomitmen menyelesaikan pembuatan sistem dalam target waktu yang disepakati (misal: paket kilat 3-5 hari). Kecepatan penyelesaian ini sangat bergantung pada kelengkapan aset visual, logo, dan salinan materi tertulis dari pihak Klien. Keterlambatan penyerahan materi dari pihak Klien dapat menggeser estimasi tanggal peluncuran sistem.
+          Ibra Digital Engineering berkomitmen menyelesaikan pembuatan sistem dalam target waktu yang disepakati. Kecepatan penyelesaian sangat bergantung pada kelengkapan aset visual, logo, foto, dan salinan materi tertulis dari pihak Klien. Keterlambatan penyerahan materi dari pihak Klien secara otomatis menggeser estimasi tanggal peluncuran sistem tanpa sanksi denda keterlambatan bagi kami.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>3. Hak Cipta &amp; Kepemilikan Kode (Source Code)</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>3. Penambahan Fitur di Luar Ruang Lingkup (Anti Scope Creep)</h2>
         <p>
-          Untuk proyek pengembangan kustom penuh (*custom development*), hak kepemilikan kode aplikasi kustom, berkas basis data, dan hak cipta materi visual dialihkan sepenuhnya kepada Klien setelah pelunasan pembayaran diselesaikan. Namun, untuk sistem yang dikembangkan berbasis sewa atau lisensi (seperti modul LMS / Sekolah Pintar Suite), hak cipta kode inti sistem tetap milik Ibra Digital Engineering dan Klien hanya menerima hak guna pakai (lisensi akses). Pembelian hak cipta kode secara penuh (*Source Code Buyout*) untuk sistem berlisensi tunduk pada kontrak dan biaya kesepakatan khusus di luar paket standar.
+          Seluruh pengerjaan terbatas pada ruang lingkup yang disepakati di awal. Permintaan fitur baru, halaman baru, atau perombakan sistem di luar kesepakatan awal dikategorikan sebagai pekerjaan tambahan (*additional work*) dan wajib dituangkan dalam Adendum Kontrak tertulis dengan kesepakatan biaya tambahan sebelum dikerjakan.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>4. Biaya Infrastruktur Tahunan &amp; Layanan Pihak Ketiga</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>4. Hak Cipta, Lisensi &amp; Atribusi Portofolio</h2>
         <p>
-          Klien berkewajiban menanggung biaya perpanjangan sewa domain dan hosting tahunan secara tepat waktu (baik melakukan pembayaran mandiri langsung ke penyedia layanan maupun melalui manajemen kami) untuk menjamin keberlangsungan hidup website. Biaya penggunaan modul premium pihak ketiga seperti kuota API WhatsApp Gateway dan token API Kecerdasan Buatan (AI) dibebankan secara transparan sesuai volume penggunaan sistem Klien masing-masing.
+          Untuk proyek kustom penuh (*custom development*), hak guna pakai dialihkan setelah pelunasan selesai. Untuk produk sistem berbasis lisensi, hak cipta kode inti tetap melekat pada pengembang. Kami memiliki hak mencantumkan kredit resmi di footer serta menggunakan tangkapan layar antarmuka sistem sebagai materi portofolio profesional, dengan tetap menjaga kerahasiaan data sensitif internal Klien.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>5. Garansi Perbaikan Bug &amp; Dukungan Pemeliharaan</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>5. Biaya Infrastruktur Tahunan &amp; Layanan Pihak Ketiga</h2>
         <p>
-          Kami memberikan garansi gratis perbaikan kesalahan teknis (*bug/error fixes*) pasca-peluncuran sesuai dengan jangka waktu dan cakupan paket kontrak yang dipilih. Garansi ini dapat gugur secara otomatis apabila terjadi perubahan/modifikasi kode inti secara tidak sah oleh pihak ketiga di luar tim Ibra Digital Engineering. Biaya jasa pemeliharaan rutin bulanan/tahunan (*maintenance SLA*) diatur secara terpisah sesuai kesepakatan kontrak.
+          Klien berkewajiban menanggung biaya perpanjangan sewa domain resmi (.id / .sch.id / .com) dan cloud database/hosting tahunan secara tepat waktu untuk menjamin kelangsungan akses sistem. Biaya penggunaan modul pihak ketiga seperti kuota API WhatsApp Gateway dan token AI dibebankan secara transparan sesuai volume penggunaan sistem Klien masing-masing.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>6. Konsultasi &amp; Informasi Layanan</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>6. Garansi Teknis &amp; Keadaan Kahar (Force Majeure)</h2>
+        <p>
+          Kami memberikan garansi gratis perbaikan kesalahan teknis (*bug/error fixes*) bawaan sistem selama 3 hingga 6 bulan pasca-serah terima (BAST). Garansi gugur apabila kode diubah oleh pihak ketiga tanpa izin kami. Keterlambatan akibat Keadaan Kahar (*Force Majeure*) seperti bencana alam, pemadaman listrik massal berkepanjangan, atau gangguan jaringan internet di wilayah kepulauan secara otomatis memperpanjang jadwal pengerjaan tanpa sanksi penalti.
+        </p>
+      </section>
+
+      <section style={{ marginBottom: "2.5rem" }}>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>7. Konsultasi &amp; Informasi Layanan</h2>
         <p>
           Apabila terdapat pasal atau ketentuan yang memerlukan penjelasan lebih detail, Anda dapat berkonsultasi langsung dengan manajemen kami melalui WhatsApp Resmi di: <strong>+62 813-5700-1357</strong>.
         </p>
