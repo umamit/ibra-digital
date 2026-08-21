@@ -66,12 +66,35 @@ Untuk menjaga sistem tetap aktif di tahun-tahun berikutnya, rincian biaya perpan
 
 ---
 
-## 5. KETENTUAN PAJAK & PEMBAYARAN
+## 5. TIMELINE ESTIMASI PENGERJAAN & MILESTONES
+
+| Fase | Kegiatan Utama | Durasi Kerja | Output / Hasil |
+|:---:|:---|:---:|:---|
+| **Fase 1** | Pengumpulan Data & Desain Wireframe UI | 3 - 5 Hari | Desain disetujui klien (*Layout Sign-off*) |
+| **Fase 2** | Penulisan Kode & Integrasi Cloud Database | 7 - 14 Hari | Sistem fungsional selesai dikerjakan |
+| **Fase 3** | Pengujian Bersama (*UAT*) & Revisi Minor | 3 - 5 Hari | Checklist UAT & Persetujuan Sistem |
+| **Fase 4** | Serah Terima Akun, Pelatihan & *Go-Live* | 1 - 2 Hari | Sistem aktif di domain resmi & BAST ditandatangani |
+
+---
+
+## 6. BATASAN RUANG LINGKUP (EXCLUSIONS)
+Penawaran ini tidak mencakup hal-hal berikut (dapat diajukan terpisah jika diperlukan):
+1.  Penyediaan perangkat keras (*hardware*) seperti komputer server fisik, laptop, atau smartphone scanner.
+2.  Pengadaan koneksi jaringan internet dan tagihan kuota data pihak klien.
+3.  Penulisan dan pembuatan artikel/konten berita harian secara berkala (operator klien dilatih untuk mengelola mandiri).
+
+---
+
+## 7. KETENTUAN PAJAK & REKENING PEMBAYARAN
 1.  **Status Perpajakan**: Harga penawaran di atas adalah nilai bersih (*netto*). Untuk pengadaan instansi pemerintah/sekolah negeri, seluruh kewajiban pemotongan pajak (PPh Pasal 21 perorangan / PPh Pasal 23 / PPN) disesuaikan dengan aturan perpajakan yang berlaku di bendahara instansi.
 2.  **Masa Berlaku Penawaran**: Surat penawaran harga ini berlaku selama **14 (empat belas) hari kalender** terhitung sejak tanggal diterbitkan.
 3.  **Tahapan Pembayaran**:
     *   **Termin I (DP 50%)**: Dibayarkan setelah penandatanganan Surat Perjanjian Kontrak Kerja Sama.
     *   **Termin II (Pelunasan 50%)**: Dibayarkan setelah sistem selesai diuji bersama (UAT) sebelum penyerahan akun penuh (*go-live*).
+4.  **Rekening Resmi Pembayaran**:
+    *   **Bank**: [Nama Bank, misal: Bank Mandiri / Bank BRI]
+    *   **Nomor Rekening**: [Nomor Rekening Anda]
+    *   **Atas Nama**: **Anhar Ekho Sulasmin Umamit**
 
 ---
 
