@@ -327,7 +327,7 @@ export default function AgencyPortfolio() {
               <span className={styles.techTag}>PostgreSQL Spasial</span>
             </div>
             <div style={{ marginTop: "32px" }}>
-              <a href="https://sipaja.taliabukab.go.id" target="_blank" rel="noopener noreferrer" className={styles.btnSecondary} style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
+              <a href="https://si-paja.vercel.app" target="_blank" rel="noopener noreferrer" className={styles.btnSecondary} style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
                 Kunjungi Portal SI-PAJA
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                   <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
