@@ -60,7 +60,7 @@ Karena pekerjaan ini diselesaikan secara sukarela:
 ---
 
 ### PASAL 6: SERAH TERIMA & KEPEMILIKAN
-1.  Setelah website diluncurkan secara publik (*live*), seluruh hak akses kredensial administrasi sistem akan diserahterimakan kepada PENERIMA HIBAH JASA. Tanggung jawab pengisian berita, pengelolaan isi, dan keamanan akun selanjutnya berada sepenuhnya di bawah kendali PENERIMA HIBAH JASA.
+1.  Setelah website diluncurkan secara publik (*live*), seluruh hak akses kredensial administrasi sistem (seperti dashboard domain, hosting, dan database Supabase) akan diserahterimakan kepada PENERIMA HIBAH JASA. Hibah jasa sukarela (pro-bono) ini **tidak mencakup** penyerahan file master kode pemrograman (*source code* / folder proyek) lokal, dan hak cipta penulisan kode tetap melekat sepenuhnya pada PEMBERI HIBAH JASA. Tanggung jawab pengisian berita, pengelolaan isi, dan keamanan akun selanjutnya berada sepenuhnya di bawah kendali PENERIMA HIBAH JASA.
 2.  Kewajiban PEMBERI HIBAH JASA pasca-peluncuran dibatasi hanya untuk memberikan 1 (satu) kali sesi tutorial/pelatihan teknis cara pengisian berita, pengelolaan konten, dan cara unggah nilai.
 3.  Setelah serah terima sistem selesai dilaksanakan, PEMBERI HIBAH JASA dibebaskan secara penuh dari tanggung jawab pemeliharaan (*maintenance*) rutin, dukungan teknis operasional harian, atau perbaikan eror sistem di masa depan.
 
