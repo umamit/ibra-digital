@@ -58,15 +58,6 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  // Schema markup untuk mendefinisikan nama situs (Google Site Name)
-  const siteNameJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Ibra Digital Engineering",
-    "alternateName": ["Ibra Digital", "IDE"],
-    "url": "https://ibradigital.id"
-  };
-
   // Schema markup untuk detail profil bisnis / layanan profesional berstandar Google Rich Results
   const professionalServiceJsonLd = {
     "@context": "https://schema.org",
@@ -179,10 +170,6 @@ export default function HomePage() {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(siteNameJsonLd) }}
-      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(professionalServiceJsonLd) }}
