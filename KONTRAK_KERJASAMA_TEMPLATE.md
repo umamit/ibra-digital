@@ -100,11 +100,28 @@ PIHAK PERTAMA bersedia melaksanakan dan menyelesaikan pekerjaan pembuatan sistem
 
 ---
 
-### PASAL 10: PENYELESAIAN PERSELISIHAN
-Apabila terjadi perselisihan atau perbedaan pendapat di kemudian hari mengenai penafsiran atau pelaksanaan perjanjian ini, PARA PIHAK sepakat untuk menyelesaikannya terlebih dahulu secara musyawarah untuk mufakat. Apabila jalan kekeluargaan tidak tercapai, perselisihan akan diselesaikan melalui jalur hukum yang berlaku di wilayah hukum Kabupaten Pulau Taliabu.
+### PASAL 10: IZIN PENGGUNAAN NAMA, LOGO & PORTOFOLIO
+1.  PIHAK KEDUA dengan ini memberikan izin kepada PIHAK PERTAMA untuk menggunakan nama instansi, logo, tangkapan layar (*screenshot*) tampilan sistem, dan deskripsi singkat proyek sebagai bahan portofolio karya, konten pemasaran digital (termasuk media sosial dan website resmi ibradigital.id), serta referensi profesional kepada calon klien lainnya.
+2.  PIHAK PERTAMA tidak diperbolehkan mempublikasikan data sensitif internal instansi (seperti data keuangan, data siswa/pegawai, atau kredensial akses sistem) dalam materi portofolio tersebut.
+3.  Apabila PIHAK KEDUA keberatan atas publikasi portofolio setelah sistem diluncurkan, PIHAK KEDUA wajib menyampaikan keberatan secara tertulis dalam jangka waktu **14 (empat belas) hari** sejak sistem dinyatakan *live*, dan PIHAK PERTAMA akan menindaklanjutinya dalam waktu **7 (tujuh) hari kerja**.
 
 ---
 
+### PASAL 11: PERUBAHAN PERJANJIAN (AMENDMENT)
+1.  Perjanjian ini hanya dapat diubah, ditambah, atau dikurangi ketentuan-ketentuannya melalui **Adendum Perjanjian** yang dibuat secara tertulis, ditandatangani oleh PARA PIHAK, dan merupakan bagian yang tidak terpisahkan dari perjanjian ini.
+2.  Kesepakatan lisan, pesan singkat (*chat* WhatsApp), atau email yang tidak dikonfirmasi dalam bentuk Adendum Perjanjian tertulis **tidak memiliki kekuatan hukum mengikat** dan tidak dapat dijadikan dasar tuntutan oleh salah satu pihak.
+
+---
+
+### PASAL 12: KETERPISAHAN KLAUSUL (SEVERABILITY)
+Apabila salah satu atau lebih ketentuan dalam perjanjian ini dinyatakan tidak berlaku, batal, atau tidak dapat dilaksanakan berdasarkan hukum yang berlaku, maka ketentuan-ketentuan lainnya dalam perjanjian ini **tetap berlaku penuh dan mengikat** PARA PIHAK seolah-olah ketentuan yang tidak berlaku tersebut tidak pernah ada dalam perjanjian ini.
+
+---
+
+### PASAL 13: PENYELESAIAN PERSELISIHAN
+Apabila terjadi perselisihan atau perbedaan pendapat di kemudian hari mengenai penafsiran atau pelaksanaan perjanjian ini, PARA PIHAK sepakat untuk menyelesaikannya terlebih dahulu secara musyawarah untuk mufakat. Apabila jalan kekeluargaan tidak tercapai, perselisihan akan diselesaikan melalui jalur hukum yang berlaku di wilayah hukum Kabupaten Pulau Taliabu.
+
+---
 
 Demikian surat perjanjian kontrak kerja sama ini dibuat dalam 2 (dua) rangkap asli bermaterai cukup, yang masing-masing memiliki kekuatan hukum yang sama dan ditandatangani oleh PARA PIHAK dalam keadaan sadar tanpa paksaan dari pihak mana pun.
 

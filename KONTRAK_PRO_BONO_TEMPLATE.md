@@ -87,6 +87,24 @@ Karena pekerjaan ini diselesaikan secara sukarela:
 
 ---
 
+### PASAL 10: IZIN PENGGUNAAN NAMA, LOGO & PORTOFOLIO
+1.  PENERIMA HIBAH JASA dengan ini memberikan izin kepada PEMBERI HIBAH JASA untuk menggunakan nama instansi, logo, tangkapan layar (*screenshot*) tampilan sistem, dan deskripsi singkat proyek sebagai bahan portofolio karya pribadi, konten pemasaran digital (termasuk media sosial profesional), serta referensi profesional kepada pihak lain.
+2.  PEMBERI HIBAH JASA tidak diperbolehkan mempublikasikan data sensitif internal instansi (seperti data siswa/pegawai atau kredensial akses sistem) dalam materi portofolio tersebut.
+3.  Apabila PENERIMA HIBAH JASA keberatan atas publikasi portofolio setelah sistem diluncurkan, PENERIMA HIBAH JASA wajib menyampaikan keberatan secara tertulis dalam jangka waktu **14 (empat belas) hari** sejak sistem dinyatakan *live*, dan PEMBERI HIBAH JASA akan menindaklanjutinya dalam waktu **7 (tujuh) hari kerja**.
+
+---
+
+### PASAL 11: PERUBAHAN PERJANJIAN (AMENDMENT)
+1.  Perjanjian ini hanya dapat diubah, ditambah, atau dikurangi ketentuan-ketentuannya melalui **Adendum Perjanjian** yang dibuat secara tertulis, ditandatangani oleh PARA PIHAK, dan merupakan bagian yang tidak terpisahkan dari perjanjian ini.
+2.  Kesepakatan lisan, pesan singkat (*chat* WhatsApp), atau email yang tidak dikonfirmasi dalam bentuk Adendum Perjanjian tertulis **tidak memiliki kekuatan hukum mengikat** dan tidak dapat dijadikan dasar tuntutan oleh salah satu pihak.
+
+---
+
+### PASAL 12: KETERPISAHAN KLAUSUL (SEVERABILITY)
+Apabila salah satu atau lebih ketentuan dalam perjanjian ini dinyatakan tidak berlaku, batal, atau tidak dapat dilaksanakan berdasarkan hukum yang berlaku, maka ketentuan-ketentuan lainnya dalam perjanjian ini **tetap berlaku penuh dan mengikat** PARA PIHAK seolah-olah ketentuan yang tidak berlaku tersebut tidak pernah ada dalam perjanjian ini.
+
+---
+
 Perjanjian ini dibuat dan ditandatangani oleh PARA PIHAK dengan iktikad baik untuk memajukan digitalisasi layanan sosial/pendidikan/keagamaan masyarakat di wilayah Pulau Taliabu.
 
 | PEMBERI HIBAH JASA | PENERIMA HIBAH JASA |
