@@ -45,14 +45,21 @@ export default function PrivacyPage() {
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>4. Cookies & Pelacakan Kunjungan</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>4. Batasan Tanggung Jawab Data Klien &amp; UU PDP</h2>
+        <p>
+          Untuk sistem aplikasi yang dipasang menggunakan akun database dan hosting mandiri milik Klien (seperti database Supabase milik instansi sekolah atau Dinas PUPR), Klien bertindak sepenuhnya sebagai Pengendali Data (*Data Controller*) sesuai UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP). Ibra Digital Engineering hanya bertindak sebagai Pengembang Sistem (*Data Processor*) dan tidak memiliki akses langsung, hak kepemilikan, maupun tanggung jawab hukum atas keamanan data pengguna akhir (seperti data siswa, guru, atau surveyor) yang disimpan di dalam infrastruktur mandiri milik Klien tersebut.
+        </p>
+      </section>
+
+      <section style={{ marginBottom: "2.5rem" }}>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>5. Cookies &amp; Pelacakan Kunjungan</h2>
         <p>
           Situs web ini dapat menggunakan cookies fungsional untuk menyimpan preferensi tata letak visual (seperti tema gelap/terang otomatis) guna mengoptimalkan kenyamanan jelajah Anda di masa mendatang sesuai standar kenyamanan Apple HIG. Kami tidak menggunakan cookies untuk melacak aktivitas pribadi Anda di luar domain ibradigital.id.
         </p>
       </section>
 
       <section style={{ marginBottom: "2.5rem" }}>
-        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>5. Kontak Keamanan Data</h2>
+        <h2 style={{ fontSize: "1.35rem", fontWeight: 700, marginBottom: "0.75rem", color: "var(--color-primary)" }}>6. Kontak Keamanan Data</h2>
         <p>
           Apabila Anda memiliki pertanyaan, keberatan, atau ingin meminta penghapusan permanen atas data pribadi Anda dari sistem kami, silakan hubungi saluran WhatsApp Resmi Data Privacy Officers kami di: <strong>+62 813-5700-1357</strong>.
         </p>
