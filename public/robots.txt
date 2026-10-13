@@ -1,0 +1,49 @@
+User-agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+User-agent: GPTBot
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: ChatGPT-User
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: ClaudeBot
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: Claude-Web
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: Google-Extended
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: PerplexityBot
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: Applebot-Extended
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: CCBot
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: Amazonbot
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+User-agent: cohere-ai
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+
+Sitemap: https://ibradigital.id/sitemap.xml
+Host: https://ibradigital.id
