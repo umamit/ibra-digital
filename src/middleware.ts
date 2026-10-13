@@ -12,7 +12,7 @@ export function middleware(request: NextRequest) {
 
   // Return direct Markdown representation when Accept: text/markdown is present
   if (isMarkdownRequested && (pathname === "/" || pathname === "")) {
-    const tokens = 485; // Token count for home markdown
+    const tokens = 485;
     return new NextResponse(homeMarkdown, {
       status: 200,
       headers: {
@@ -21,7 +21,7 @@ export function middleware(request: NextRequest) {
         "Vary": "Accept",
         "Cache-Control": "public, max-age=3600, s-maxage=86400",
         "Access-Control-Allow-Origin": "*",
-        "Link": '<https://ibradigital.id/llms.txt>; rel="alternate"; type="text/markdown", <https://ibradigital.id/.well-known/agents.json>; rel="agent-description"',
+        "Link": '<https://ibradigital.id/llms.txt>; rel="alternate"; type="text/markdown", <https://ibradigital.id/.well-known/agents.json>; rel="agent-description", <https://ibradigital.id/.well-known/api-catalog>; rel="api-catalog"',
       },
     });
   }
@@ -32,7 +32,7 @@ export function middleware(request: NextRequest) {
   response.headers.set("X-Agent-Ready", "1.0.0");
   response.headers.set(
     "Link",
-    '<https://ibradigital.id/llms.txt>; rel="alternate"; type="text/markdown", <https://ibradigital.id/.well-known/agents.json>; rel="agent-description"'
+    '<https://ibradigital.id/llms.txt>; rel="alternate"; type="text/markdown", <https://ibradigital.id/.well-known/agents.json>; rel="agent-description", <https://ibradigital.id/.well-known/api-catalog>; rel="api-catalog"'
   );
 
   return response;

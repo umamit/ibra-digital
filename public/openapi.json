@@ -1,0 +1,39 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "IBRA Digital Engineering API",
+    "version": "1.0.0",
+    "description": "Public API endpoints for IBRA Digital Engineering agency services, status health, and agent discovery."
+  },
+  "servers": [
+    {
+      "url": "https://ibradigital.id",
+      "description": "Production Server"
+    }
+  ],
+  "paths": {
+    "/api/health": {
+      "get": {
+        "summary": "Health status check",
+        "description": "Returns current uptime and health status of the deployment.",
+        "responses": {
+          "200": {
+            "description": "Service is operational",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": { "type": "string" },
+                    "version": { "type": "string" },
+                    "timestamp": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

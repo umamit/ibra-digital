@@ -1,0 +1,25 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://ibradigital.id/api/",
+      "service-desc": [
+        {
+          "href": "https://ibradigital.id/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://ibradigital.id/llms.txt",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://ibradigital.id/api/health",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}
