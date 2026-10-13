@@ -1,0 +1,40 @@
+# IBRA Digital Engineering
+
+> Premium Website Architecture, Modern Web Applications & Software Engineering based in Bobong, Pulau Taliabu, North Maluku, Indonesia.
+
+## Overview
+IBRA Digital Engineering (IDE) is a modern software engineering and digital agency founded by Anhar Ekho Sulasmin Umamit, S.T. The agency delivers high-performance web applications, local SEO optimization, and premium UI/UX design following Apple Human Interface Guidelines (HIG), Tailwind CSS, Next.js, and Supabase.
+
+- Official Domain: https://ibradigital.id
+- Email: contact@ibradigital.id
+- Phone / WhatsApp: +62 813-5700-1357
+- Head Office: Bobong, Pulau Taliabu, Maluku Utara 97794, Indonesia
+- Geographic Coordinates: -1.9328, 124.3789
+
+## Core Services
+1. Landing Page Development: High-conversion, ultra-fast landing pages optimized for search engines and direct customer acquisition. Completed in 3 to 5 business days.
+2. Institutional & School Profiles: Official institutional portals, school identity websites, and enterprise web profiles with local Google SEO dominance.
+3. Custom Information Systems & LMS: Geofence GPS presence tracking, real-time database management with Supabase, school administration dashboards, and digital learning management systems.
+4. E-Commerce & Payment Gateway Integration: Seamless integration with Midtrans, Xendit, and secure transaction workflows.
+
+## Technology Stack
+- Frontend: Next.js (App Router, Server-Side Rendering, Server Components), React, TypeScript, Tailwind CSS, Lucide Icons, Framer Motion.
+- Backend & Cloud: Node.js, Next.js API Routes, Supabase (PostgreSQL, Auth, Realtime, Storage), Cloudflare DNS, Vercel Edge.
+- Architecture: Zero Technical Debt, Single Responsibility Principle, Strict Component Modularity, Micro-optimizations for Core Web Vitals (LCP, INP, CLS).
+
+## Key Projects & Portfolio
+- IBRA Global English: International language training institution portal (https://www.ibraglobalenglish.uk).
+- Kos Fitrah: Boarding house booking and tenant management application with automated invoicing and WhatsApp billing notifications (https://kosfitrah.uk).
+- Sistem Informasi Manajemen Sekolah: Cloud-based school management platform featuring automated grading, student report generation, and teacher attendance tracking.
+
+## Pricing Tiers
+- Starter Landing Page: Rp 1.500.000 (Ideal for local businesses, portfolios, and marketing campaigns).
+- Business & School Profile: Rp 3.500.000 (Complete portal, institutional branding, local SEO setup, domain and cloud hosting included).
+- Enterprise & Custom Web Application: Rp 7.500.000 to Rp 50.000.000 (Custom database, role-based access control, realtime dashboards, payment gateways, tailored APIs).
+
+## Full Documentation & Links
+- Complete LLM Specification: https://ibradigital.id/llms-full.txt
+- Machine-Readable Agent Spec: https://ibradigital.id/.well-known/agents.json
+- XML Sitemap: https://ibradigital.id/sitemap.xml
+- Terms of Service: https://ibradigital.id/terms
+- Privacy Policy: https://ibradigital.id/privacy

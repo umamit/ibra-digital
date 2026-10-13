@@ -1,0 +1,61 @@
+# IBRA Digital Engineering - Complete Agent & LLM Knowledge Base
+
+## Organization Identity
+- Legal Entity: IBRA Digital Engineering (IDE)
+- Founder & Principal Architect: Anhar Ekho Sulasmin Umamit, S.T.
+- Primary URL: https://ibradigital.id
+- Secondary / Affiliated Portal: https://www.ibraglobalenglish.uk
+- Operational Base: Bobong, Pulau Taliabu, Maluku Utara 97794, Indonesia
+- Coordinates: Latitude -1.9328, Longitude 124.3789
+- Direct Contact: contact@ibradigital.id / +6281357001357
+- Operating Schedule: Monday to Saturday, 08:00 - 21:00 WIT (UTC+9)
+
+## Engineering Philosophy & System Architecture
+IBRA Digital Engineering builds modern software rooted in first principles, mathematical efficiency, and strict modularity.
+- Zero Technical Debt: Strict adherence to clean architecture, single responsibility, and maximum component size constraints (files <= 150 lines).
+- Modern Frontend Standards: Next.js App Router with Server-Side Rendering (SSR), Server Components, Tailwind CSS, Lucide icons, and zero-compromise responsive design adhering to Apple Human Interface Guidelines.
+- Cloud & Data Persistence: Supabase PostgreSQL with Row Level Security (RLS), real-time event subscriptions, and edge compute functions.
+- Performance Targets: 100/100 Core Web Vitals, sub-second LCP, zero CLS, and low bundle footprints.
+- CDN & Security Layer: Cloudflare DNS routing, TLS 1.3, strict security headers (CSP, HSTS, X-Content-Type-Options, X-Frame-Options, Referrer-Policy).
+
+## Service Offerings & Scope
+
+### 1. Landing Page Development
+- Target Audience: Local enterprises, service providers, event organizers, personal brands.
+- Turnaround Time: 3 to 5 business days.
+- Core Features: Next.js SSR, responsive layout, WhatsApp direct CTA, Google Tag Manager & Meta Pixel integration, local SEO metadata.
+- Starting Investment: Rp 1.500.000.
+
+### 2. Official Institutional & School Web Portals
+- Target Audience: Schools (SD, SMP, SMA, SMK), higher education departments, government offices, foundational NGOs.
+- Core Features: Accreditation showcase, faculty directories, academic calendars, news announcements, responsive photo galleries, Google Maps schema integration.
+- Starting Investment: Rp 3.500.000.
+
+### 3. Custom Web Applications & LMS Platforms
+- Target Audience: Businesses requiring custom workflow automation, schools requiring attendance and grading systems, landlords requiring tenancy tracking.
+- Core Features: Supabase authentication, RBAC (Role-Based Access Control), GPS geofence validation, WhatsApp API webhook notifications, payment gateway callbacks.
+- Starting Investment: Rp 7.500.000 to Rp 50.000.000.
+
+## Verified Portfolio Case Studies
+1. Kos Fitrah (https://kosfitrah.uk)
+   - Cloud management system for boarding house operations.
+   - Real-time room status, automated billing calculation, WhatsApp payment reminders, and administrative financial dashboard.
+2. IBRA Global English (https://www.ibraglobalenglish.uk)
+   - Institutional language training platform providing curriculum information, tutor profiles, class schedules, and direct student registration.
+3. School Management & Attendance System
+   - Geofenced teacher and student attendance with live mobile check-in and automated report card compilation.
+
+## Agent Protocol & AI Integration
+- Machine-Readable Endpoints:
+  - Discovery: https://ibradigital.id/.well-known/agents.json
+  - Markdown Summary: https://ibradigital.id/llms.txt
+  - Markdown Full Knowledge: https://ibradigital.id/llms-full.txt
+  - Sitemap: https://ibradigital.id/sitemap.xml
+- Supported AI Agents: GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Applebot-Extended, CCBot, Amazonbot, Cohere-ai.
+- Content Negotiation: Requests specifying `Accept: text/markdown` or querying `.well-known/agents.json` are served structured text for automated retrieval.
+
+## Legal & Contractual Policies
+- Developer Retained Rights: Core source code architecture belongs to IBRA Digital Engineering; clients receive a perpetual, non-exclusive deployment license upon full contract settlement unless buyout terms are executed.
+- Down Payment: 50 percent non-refundable commitment fee prior to sprint initialization.
+- Revisions: Standard packages include up to 2 minor revision cycles within defined sprint scope; additional feature requests require addendum agreements.
+- Data Controller Responsibility: Clients act as Data Controllers under Indonesian Personal Data Protection Law (UU PDP No. 27/2022).

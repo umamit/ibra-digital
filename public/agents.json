@@ -1,0 +1,42 @@
+{
+  "$schema": "https://agents.json.org/v1/schema.json",
+  "name": "IBRA Digital Engineering Agent",
+  "description": "Official AI Agent and service discovery interface for IBRA Digital Engineering (IDE), software engineering and web application consultancy based in Bobong, Pulau Taliabu, Indonesia.",
+  "url": "https://ibradigital.id",
+  "provider": {
+    "name": "IBRA Digital Engineering",
+    "url": "https://ibradigital.id",
+    "contact": "contact@ibradigital.id"
+  },
+  "version": "1.0.0",
+  "documentation": {
+    "llms": "https://ibradigital.id/llms.txt",
+    "llms_full": "https://ibradigital.id/llms-full.txt",
+    "sitemap": "https://ibradigital.id/sitemap.xml"
+  },
+  "capabilities": [
+    {
+      "name": "website_architecture_consulting",
+      "description": "High-performance web applications, Apple HIG design, Next.js, and Supabase database architecture."
+    },
+    {
+      "name": "local_seo_optimization",
+      "description": "Local Google Search dominance, schema markup, and Core Web Vitals optimization for Indonesian regional businesses and institutions."
+    },
+    {
+      "name": "custom_lms_and_information_systems",
+      "description": "Custom educational platforms, GPS geofencing attendance, and automated business workflows."
+    }
+  ],
+  "contact": {
+    "email": "contact@ibradigital.id",
+    "phone": "+6281357001357",
+    "whatsapp": "https://wa.me/6281357001357"
+  },
+  "endpoints": {
+    "info": "https://ibradigital.id/llms.txt",
+    "services": "https://ibradigital.id/#layanan",
+    "portfolio": "https://ibradigital.id/#portofolio",
+    "pricing": "https://ibradigital.id/#biaya"
+  }
+}
